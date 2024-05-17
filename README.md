@@ -24,7 +24,3 @@ Word clouds for each album were generated to visually underscore the most promin
 
 ## Conclusion
 The analysis reveals a predominant theme of happiness across EXO's albums, showcasing their ability to convey positive emotions through music. The distinct negativity in the "LOVE SHOT" album adds depth and complexity to the narrative, enriching the overall artistic portrayal. This study not only highlights recurrent themes but also illustrates the variability in emotional undertones across different albums, offering fans and researchers deeper insights into EXO's lyrical dynamics.
-
-
-- **Notebooks:** Jupyter notebooks with detailed of Data Extraction Scripts and analysis steps are provided in the folder.
-- **Visualization Dashboards:** Interactive dashboards are available.
